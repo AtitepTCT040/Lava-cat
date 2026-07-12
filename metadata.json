@@ -1,0 +1,6 @@
+{
+  "name": "Lava Cat Math Survival",
+  "description": "ช่วยพี่แมวคิดเลขเพื่อหนีลาวาสุดร้อนแรง! เกมคิดเลขแสนสนุกช่วยฝึกฝนทักษะคณิตศาสตร์พร้อมเอาชีวิตรอดจากน้ำลาวา",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
